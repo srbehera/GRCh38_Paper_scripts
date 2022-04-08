@@ -1,9 +1,6 @@
-##HG002 
-  Challenging medically relevant regions (CMRG) benchmark for HG002 sample (GRCh38) with high-confidence regions https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG002_NA24385_son/CMRG_v1.00/GRCh38/SmallVariant/
-
-  GRCh38 original reference https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/references/GRCh38/GCA_000001405.15_GRCh38_no_alt_analysis_set.fasta.gz
-
-  GRCh38 modified reference: https://bcm.box.com/s/xi95ahgzrw86pvogm7sdwl0ppn49i5dn
+1. Challenging medically relevant regions (CMRG) benchmark for HG002 sample (GRCh38) with high-confidence regions https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG002_NA24385_son/CMRG_v1.00/GRCh38/SmallVariant/
+2. GRCh38 original reference https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/references/GRCh38/GCA_000001405.15_GRCh38_no_alt_analysis_set.fasta.gz
+3. GRCh38 modified reference: https://bcm.box.com/s/xi95ahgzrw86pvogm7sdwl0ppn49i5dn
 
 HG002 HiFiasm assembly used for dipcall https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG002_NA24385_son/CMRG_v1.00/hifiasm-assembly/
 
