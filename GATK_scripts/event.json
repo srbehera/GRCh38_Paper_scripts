@@ -1,0 +1,9 @@
+{
+    "event_id": "HG002",
+    "event_type": "SequencingEvent",
+    "path": "/users/u236519/Sairam/Proj5_LPA/GRCh38_bug/Bug_fix_result_HG002/masked/Analysis2/GATK_original",
+    "extracted_reads_bam": "/users/u236519/Sairam/Proj5_LPA/GRCh38_bug/Bug_fix_result_HG002/masked/Analysis2/HG002_masked_pairs_only.sort.bam",
+    "extracted_reads_interval_list": "/users/u236519/Sairam/Proj5_LPA/GRCh38_bug/Bug_fix_result_HG002/masked/Analysis2/masked.5K.original.interval_list",
+    "reference": "/users/u236519/Sairam/Proj5_LPA/GRCh38_bug/GRCh38_reference/genome.fa",
+    "rg_string": "@RG\\tID:0\\tSM:HG002\\tLB:HG002\\tPU:HG002\\tCN:BCM\\tDT:2021-07-01T00:00:00-0500\\tPL:Illumina"
+}
