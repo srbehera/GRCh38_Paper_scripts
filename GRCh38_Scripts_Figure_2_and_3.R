@@ -11,7 +11,7 @@ theme_set(
     theme(legend.position = "top")
 )
 
-setwd("/Users/behera/GRCh38_bug/GRCh38_bug")
+setwd("/Users/behera/GRCh38_bug/GRCh38_bug") # change to directory that contains the files
 
 #Masked Mapping: Figure 2A 
 
