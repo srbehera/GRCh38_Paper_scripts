@@ -1,0 +1,2 @@
+#Genome-wide mapping (short read)
+/hgsc_software/bwa/bwa-0.7.15/bwa mem -K 100000000 -Y -t 8 -R @RG\tID:0\tSM:HG002\tLB:HG002\tPU:HG002_38_nodecoy\tCN:BCM\tDT:2021-03-10T00:00:00-0600\tPL:Illumina /stornext/snfs110/next-gen/Illumina/giab_masking/references/38_nodecoy/GCA_000001405.15_GRCh38_no_alt_analysis_set.fasta /stornext/snfs110/next-gen/Illumina/giab_masking/events/HG002_38_nodecoy/HG002.novaseq.pcr-free.35x.R1.fastq.gz /stornext/snfs110/next-gen/Illumina/giab_masking/events/HG002_38_nodecoy/HG002.novaseq.pcr-free.35x.R2.fastq.gz
