@@ -1,0 +1,9 @@
+F1.score,Mapping,Type
+0.012346,Original,DUP_SNP
+0.979866,Remapping_Global,DUP_SNP
+0,Original,DUP_INDEL
+1,Remapping_Global,DUP_INDEL
+0.121113,Original,CLP_SNP
+0.178824,Remapping_Global,CLP_SNP
+0.258621,Original,CLP_INDEL
+0.319149,Remapping_Global,CLP_INDEL
