@@ -1,5 +1,5 @@
 ## Calling variants using GATK
-    Here is an example HgV event for running the GATK variant calling pipeline on HG002 samples, using inputs from one of the previous runs. 
+  Here is an example HgV event for running the GATK variant calling pipeline on HG002 samples, using inputs from one of the previous runs. 
   This directory can be copied and used as a template for running GATK variant calling on different inputs. 
   `Resequencing38.smk` is the Snakemake workflow for the analysis pipeline.
 
